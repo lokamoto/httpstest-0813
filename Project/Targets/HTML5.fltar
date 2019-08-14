@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="New Target"
@@ -8,13 +8,13 @@
   MasterToc="/Project/TOCs/TOC.fltoc"
   ConditionTagExpression=""
   EquationsOutputType="PNG"
-  MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp"
+  MasterPage="/Content/www/MasterPages/Other-Topics.flmsp"
   ExcludeUnreferencedContent="true"
   TopNavTocPath="true"
   Skin="/Project/Skins/Side-Navigation.flskn"
   ReplaceSpacesWithUnderscores="true"
   DefaultUrl="/Content/Home.htm"
-  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterStylesheet="/Content/www/Stylesheets/Styles.css"
   MasterStylesheetOverride="false"
   TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
   ShowMadCapBacklink="true">
